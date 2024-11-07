@@ -30,5 +30,5 @@
 <p><a href="https://ko-fi.com/sanesupro"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sanesupro" /></a></p><br><br>
 
 
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=sanesuoff&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=sanesuoff&show_icons=true&locale=fr)" alt="sanesuoff" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanesuoff&show_icons=true&locale=fr" alt="sanesuoff" /></p>
 
