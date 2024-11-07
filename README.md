@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanesuoff&label=Profile%20views&color=ee00ff&style=flat" alt="sanesuoff" /> </p>
 
-- 🔭 I’m currently working on [Sukona](https://sanesu.wuaze.com/sukona)
+- 🔭 I’m currently working on [PowerBike](https://github.com/SanesuOff/SanesuOff/PowerBike/)
 
 - 🌱 I’m currently learning **C++**
 
