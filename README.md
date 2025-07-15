@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanesuoff&label=Profile%20views&color=ee00ff&style=flat" alt="sanesuoff" /> </p>
 
-- 🔭 I’m currently working on [PowerBike](https://github.com/SanesuOff/PowerBike/)
+- 🔭 I’m currently working on [SanCoders](https://github.com/San-Coders/)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://sanesu.wuaze.com#project](https://sanesu.wuaze.com#project)
 
