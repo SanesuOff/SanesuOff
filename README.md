@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SanCoders](https://github.com/San-Coders/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React / Next.js**
 
 - 👨‍💻 All of my projects are available at [https://sanesu.wuaze.com#project](https://sanesu.wuaze.com#project)
 
